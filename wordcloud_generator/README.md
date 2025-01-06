@@ -67,4 +67,3 @@ The script will process the text file and display a **Word Cloud** visualization
    - Displays the Word Cloud using `matplotlib`.
 
 
-If you have any questions or encounter issues, feel free to ask for help. 😊
