@@ -84,8 +84,3 @@ Suggestion for 'aanlysis': analysis
    - For each word not found in the vocabulary, calculates the Damerau-Levenshtein distance to suggest the closest match.
 4. **Handles Hyphenated Words**:
    - Splits words containing hyphens and processes each part separately.
-
-
-
-
-If you have any questions or encounter issues, feel free to ask for help. 😊
