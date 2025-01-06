@@ -71,11 +71,3 @@ Hazm's `Lemmatizer` is used to extract the root form of each word, which is usef
 ### 8. **Saving the Output**
 The processed text is saved line-by-line in a file named `output.txt`.
 
----
-
-## **Input and Output**
-- **Input:** A Persian text file (e.g., `hp_fa.txt`).
-- **Output:** A processed text file (`output.txt`) with normalized, tokenized, and cleaned text.
-
-
-ه نیاز به تغییر دارد، اطلاع دهید تا README به‌روزرسانی شود. 😊
