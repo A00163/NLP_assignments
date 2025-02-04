@@ -84,12 +84,4 @@ pip install pandas numpy nltk seaborn matplotlib sklearn tensorflow gensim
 
 ---
 
-### **Key Results**
-- The model achieves high accuracy on the test set due to effective preprocessing and the use of pre-trained Word2Vec embeddings.
-- **Classification Report**:
-  - Precision: High precision for both positive and negative classes.
-  - Recall: Successfully identifies positive and negative tweets.
-
----
-
 
